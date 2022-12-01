@@ -1,0 +1,11 @@
+C:\Users\camilomih\Desktop\Prog. Avanzada\ACA1\fibonacciConPara\fibonacciConPara\bin\Debug\fibonacciConPara.exe.config
+C:\Users\camilomih\Desktop\Prog. Avanzada\ACA1\fibonacciConPara\fibonacciConPara\bin\Debug\fibonacciConPara.exe
+C:\Users\camilomih\Desktop\Prog. Avanzada\ACA1\fibonacciConPara\fibonacciConPara\bin\Debug\fibonacciConPara.pdb
+C:\Users\camilomih\Desktop\Prog. Avanzada\ACA1\fibonacciConPara\fibonacciConPara\obj\Debug\fibonacciConPara.csproj.AssemblyReference.cache
+C:\Users\camilomih\Desktop\Prog. Avanzada\ACA1\fibonacciConPara\fibonacciConPara\obj\Debug\fibonacciConPara.csproj.SuggestedBindingRedirects.cache
+C:\Users\camilomih\Desktop\Prog. Avanzada\ACA1\fibonacciConPara\fibonacciConPara\obj\Debug\fibonacciConPara.Form1.resources
+C:\Users\camilomih\Desktop\Prog. Avanzada\ACA1\fibonacciConPara\fibonacciConPara\obj\Debug\fibonacciConPara.Properties.Resources.resources
+C:\Users\camilomih\Desktop\Prog. Avanzada\ACA1\fibonacciConPara\fibonacciConPara\obj\Debug\fibonacciConPara.csproj.GenerateResource.cache
+C:\Users\camilomih\Desktop\Prog. Avanzada\ACA1\fibonacciConPara\fibonacciConPara\obj\Debug\fibonacciConPara.csproj.CoreCompileInputs.cache
+C:\Users\camilomih\Desktop\Prog. Avanzada\ACA1\fibonacciConPara\fibonacciConPara\obj\Debug\fibonacciConPara.exe
+C:\Users\camilomih\Desktop\Prog. Avanzada\ACA1\fibonacciConPara\fibonacciConPara\obj\Debug\fibonacciConPara.pdb
