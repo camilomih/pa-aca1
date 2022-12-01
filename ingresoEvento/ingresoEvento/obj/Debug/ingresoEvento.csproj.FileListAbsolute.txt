@@ -1,0 +1,11 @@
+C:\Users\camilomih\Desktop\Prog. Avanzada\ACA1\ingresoEvento\ingresoEvento\bin\Debug\ingresoEvento.exe.config
+C:\Users\camilomih\Desktop\Prog. Avanzada\ACA1\ingresoEvento\ingresoEvento\bin\Debug\ingresoEvento.exe
+C:\Users\camilomih\Desktop\Prog. Avanzada\ACA1\ingresoEvento\ingresoEvento\bin\Debug\ingresoEvento.pdb
+C:\Users\camilomih\Desktop\Prog. Avanzada\ACA1\ingresoEvento\ingresoEvento\obj\Debug\ingresoEvento.csproj.AssemblyReference.cache
+C:\Users\camilomih\Desktop\Prog. Avanzada\ACA1\ingresoEvento\ingresoEvento\obj\Debug\ingresoEvento.csproj.SuggestedBindingRedirects.cache
+C:\Users\camilomih\Desktop\Prog. Avanzada\ACA1\ingresoEvento\ingresoEvento\obj\Debug\ingresoEvento.Form1.resources
+C:\Users\camilomih\Desktop\Prog. Avanzada\ACA1\ingresoEvento\ingresoEvento\obj\Debug\ingresoEvento.Properties.Resources.resources
+C:\Users\camilomih\Desktop\Prog. Avanzada\ACA1\ingresoEvento\ingresoEvento\obj\Debug\ingresoEvento.csproj.GenerateResource.cache
+C:\Users\camilomih\Desktop\Prog. Avanzada\ACA1\ingresoEvento\ingresoEvento\obj\Debug\ingresoEvento.csproj.CoreCompileInputs.cache
+C:\Users\camilomih\Desktop\Prog. Avanzada\ACA1\ingresoEvento\ingresoEvento\obj\Debug\ingresoEvento.exe
+C:\Users\camilomih\Desktop\Prog. Avanzada\ACA1\ingresoEvento\ingresoEvento\obj\Debug\ingresoEvento.pdb
