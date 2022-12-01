@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.lblPresentacion = new System.Windows.Forms.Label();
             this.txtbEdad = new System.Windows.Forms.TextBox();
             this.btnValidar = new System.Windows.Forms.Button();
@@ -82,8 +83,9 @@
             this.Controls.Add(this.btnValidar);
             this.Controls.Add(this.txtbEdad);
             this.Controls.Add(this.lblPresentacion);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Validacion evento";
             this.ResumeLayout(false);
             this.PerformLayout();
 
